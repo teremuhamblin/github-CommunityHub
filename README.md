@@ -1,8 +1,8 @@
 ###### README.md >> markdown
 
-![Issue Autoresponse](https://github.com/teremuhamblin/GitHub-CommunityHub/actions/workflows/autoresponse.yml/badge.svg)
+![Autoresponse](https://github.com/teremuhamblin/GitHub-CommunityHub/actions/workflows/autoresponse.yml/badge.svg)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=teremuhamblin&theme=onedark&rank=S,AAA,AA,A,B,C&margin-w=15&margin-h=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🟦 GitHub-CommunityHub
 
