@@ -1,6 +1,6 @@
 ###### README.md >> markdown
 
-![Issue Autoresponse](https://github.com/teremuhamblin/GitHub-CommunityHub/actions/workflows/issue-autoresponse.yml/badge.svg)
+![Issue Autoresponse](https://github.com/teremuhamblin/GitHub-CommunityHub/actions/workflows/autoresponse.yml/badge.svg)
 
 ## 🟦 GitHub-CommunityHub
 
