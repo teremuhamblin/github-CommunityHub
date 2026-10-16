@@ -2,8 +2,6 @@
 
 ![Autoresponse](https://github.com/teremuhamblin/GitHub-CommunityHub/actions/workflows/autoresponse.yml/badge.svg)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=teremuhamblin&theme=onedark&rank=S,AAA,AA,A,B,C&margin-w=15&margin-h=15&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
-
 ## 🟦 GitHub-CommunityHub
 
 GitHub-CommunityHub est un dépôt communautaire dédié à la documentation, aux bonnes pratiques, aux templates et aux ressources permettant d’améliorer l’utilisation de GitHub au quotidien.
