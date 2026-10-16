@@ -1,0 +1,8 @@
+name: Bug Report
+description: Signaler un bug
+labels: [bug]
+body:
+  - type: textarea
+    id: description
+    label: Description du bug
+    required: true
