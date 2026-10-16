@@ -1,0 +1,28 @@
+name: Issue Autoresponse
+
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  auto-response:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Auto‑response to new issues
+      uses: derekprior/add-autoresponse@master
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        respondableId: ${{ github.event.issue.node_id }}
+        author: ${{ github.event.issue.user.login }}
+        response: |
+          _Merci pour votre contribution !  
+          Ce dépôt **GitHub‑CommunityHub** sert de point central pour partager des ressources, guides, workflows et bonnes pratiques autour de GitHub.  
+          
+          Pour toute demande liée à GitHub lui‑même (bugs, feedback produit, questions officielles), nous vous invitons à utiliser le dépôt **GitHub Feedback Discussions** :  
+          👉 https://github.com/github/feedback/discussions  
+          
+          Si votre issue concerne plutôt une amélioration du Hub, une ressource à ajouter ou une discussion communautaire, elle sera traitée ici.  
+          
+          Merci encore pour votre participation à la communauté !_
