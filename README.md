@@ -1,4 +1,7 @@
 ###### README.md >> markdown
+
+![Issue Autoresponse](https://github.com/teremuhamblin/GitHub-CommunityHub/actions/workflows/issue-autoresponse.yml/badge.svg)
+
 ## 🟦 GitHub-CommunityHub
 
 GitHub-CommunityHub est un dépôt communautaire dédié à la documentation, aux bonnes pratiques, aux templates et aux ressources permettant d’améliorer l’utilisation de GitHub au quotidien.
