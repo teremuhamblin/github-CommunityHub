@@ -49,6 +49,20 @@ Liens utiles, documentation, outils, bonnes pratiques.
 
 ---
 
+### Issue Autoresponse — v1.0.0
+
+### 🎯 Objectif
+Ce workflow automatise la réponse à chaque nouvelle issue ouverte dans le dépôt **GitHub‑CommunityHub**.  
+Il fournit un message d’accueil clair, professionnel et orienté communauté, tout en redirigeant les utilisateurs vers le dépôt officiel GitHub Feedback Discussions lorsque nécessaire.
+
+### ⚙️ Fonctionnement
+- Déclenchement automatique à chaque ouverture d’issue.
+- Envoi d’un message préformaté au créateur de l’issue.
+- Aucune action supplémentaire n’est effectuée (pas de fermeture automatique).
+
+### 📂 Emplacement
+Le workflow doit être placé dans :
+
 ### 🤝 Contribution
 
 Les contributions sont les bienvenues.  
