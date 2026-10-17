@@ -4,6 +4,12 @@
 
 ## 🟦 GitHub-CommunityHub
 
+![](https://github.com/[USERNAME]/github-stats/blob/generated/overview.svg#gh-dark-mode-only)
+![](https://github.com/[USERNAME]/github-stats/blob/generated/overview.svg#gh-light-mode-only)
+![](https://github.com/[USERNAME]/github-stats/blob/generated/languages.svg#gh-dark-mode-only)
+![](https://github.com/[USERNAME]/github-stats/blob/generated/languages.svg#gh-light-mode-only)
+[Created by `jstrieb/github-stats`.](https://github.com/jstrieb/github-stats)
+
 GitHub-CommunityHub est un dépôt communautaire dédié à la documentation, aux bonnes pratiques, aux templates et aux ressources permettant d’améliorer l’utilisation de GitHub au quotidien.
 
 - Ce dépôt sert de hub central pour :
