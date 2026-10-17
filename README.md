@@ -1,11 +1,13 @@
 ###### README.md >> markdown
-
+---
 ![CI Autoresponse](https://github.com/teremuhamblin/gitHub-CommunityHub/actions/workflows/autoresponse.yml/badge.svg)
+
+---
 ![License](https://img.shields.io/github/license/teremuhamblin/gitHub-CommunityHub)
 ![Stars](https://img.shields.io/github/stars/teremuhamblin/gitHub-CommunityHub?style=flat)
 ![Issues](https://img.shields.io/github/issues/teremuhamblin/gitHub-CommunityHub)
 ![Last Commit](https://img.shields.io/github/last-commit/teremuhamblin/gitHub-CommunityHub)
-![Made with Bash](https://img.shields.io/badge/made%20with-Bash-1f425f.svg)
+![Made with Bash](https://img.shields.io/badge/made%20with-No-1f425f.svg)
 ![Termux Ops](https://img.shields.io/badge/Termux-Ops-critical)
 
 ## 🟦 GitHub-CommunityHub
