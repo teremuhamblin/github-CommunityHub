@@ -1,6 +1,4 @@
 ###### README.md >> markdown
----
-![CI Autoresponse](https://github.com/teremuhamblin/gitHub-CommunityHub/actions/workflows/autoresponse.yml/badge.svg)
 
 ---
 ![License](https://img.shields.io/github/license/teremuhamblin/gitHub-CommunityHub)
@@ -48,7 +46,7 @@ GitHub-CommunityHub est un dépôt communautaire dédié à la documentation, au
 ```
 
 ### 🧩 Contenu principal
-
+```text
 ✔ Templates d’issues
 Bug report, feature request, questions, etc.
 
@@ -63,11 +61,11 @@ Comment contribuer, comment gérer les issues, comment structurer un dépôt.
 
 ✔ Ressources GitHub
 Liens utiles, documentation, outils, bonnes pratiques.
+```
 
 ---
 
 ### Issue Autoresponse — v1.0.0
-
 ### 🎯 Objectif
 Ce workflow automatise la réponse à chaque nouvelle issue ouverte dans le dépôt **GitHub‑CommunityHub**.  
 Il fournit un message d’accueil clair, professionnel et orienté communauté, tout en redirigeant les utilisateurs vers le dépôt officiel GitHub Feedback Discussions lorsque nécessaire.
@@ -79,22 +77,24 @@ Il fournit un message d’accueil clair, professionnel et orienté communauté, 
 
 ### 📂 Emplacement
 Le workflow doit être placé dans :
+**.github/workflows/**
 
 ### 🤝 Contribution
-
-Les contributions sont les bienvenues.  
-Consulte le fichier **CONTRIBUTING.md** pour connaître les règles et bonnes pratiques.
+- Les contributions sont les bienvenues.
+   - Consulte le fichier **CONTRIBUTING.md** pour connaître les règles et bonnes pratiques.
 
 ---
 
 ### 🔒 Sécurité
-
+```md
 Les problèmes de sécurité doivent être signalés via le fichier SECURITY.md.
+```
 
 ---
 
 ### ❤️ Intentions
-
+```md
 Ce dépôt est créé dans un esprit de partage, d’amélioration continue et de soutien à la communauté GitHub.
+```
 
 ---
