@@ -1,12 +1,15 @@
 ###### README.md >> markdown
 
 ---
-![License](https://img.shields.io/github/license/teremuhamblin/gitHub-CommunityHub)
-![Stars](https://img.shields.io/github/stars/teremuhamblin/gitHub-CommunityHub?style=flat)
-![Issues](https://img.shields.io/github/issues/teremuhamblin/gitHub-CommunityHub)
-![Last Commit](https://img.shields.io/github/last-commit/teremuhamblin/gitHub-CommunityHub)
-![Made with Bash](https://img.shields.io/badge/made%20with-No-1f425f.svg)
-![Termux Ops](https://img.shields.io/badge/Termux-Ops-critical)
+
+![License](https://img.shields.io/github/license/teremuhamblin/gitHub-CommunityHub?style=for-the-badge&color=8000FF)
+![Stars](https://img.shields.io/github/stars/teremuhamblin/gitHub-CommunityHub?style=for-the-badge&color=8000FF&logo=github&logoColor=white)
+![Issues](https://img.shields.io/github/issues/teremuhamblin/gitHub-CommunityHub?style=for-the-badge&color=8000FF)
+![Last Commit](https://img.shields.io/github/last-commit/teremuhamblin/gitHub-CommunityHub?style=for-the-badge&color=8000FF)
+![Made with Bash](https://img.shields.io/badge/Made%20with-Bash-8000FF?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Termux Ops](https://img.shields.io/badge/Termux-Ops-8000FF?style=for-the-badge&logo=android&logoColor=white)
+
+---
 
 ## 🟦 GitHub-CommunityHub
 
