@@ -35,11 +35,15 @@ GitHub-CommunityHub est un dépôt communautaire dédié à la documentation, au
 
 ---
 
+<p align="center">
+
 <img src=".github/badges/stars.svg"/>
 <img src=".github/badges/issues.svg"/>
 <img src=".github/badges/last_commit.svg"/>
 <img src=".github/badges/bash.svg"/>
 <img src=".github/badges/termux_ops.svg"/>
+
+</p>
 
 ---
 
