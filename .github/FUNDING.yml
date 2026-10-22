@@ -1,1 +1,39 @@
+# ============================================================
+#  FUNDING.yml — Full Sponsors Officiels
+#  Signature : Teremu Hamblin / The MadDoG.tmdg
+#  Style : Purple Cyber / Elite Ops
+# ============================================================
+
+# --- Plateformes GitHub officielles ---
 github: teremuhamblin
+
+# --- Plateformes de mécénat / créateurs ---
+patreon: MadDoGTechOps
+ko_fi: madDogOps
+buy_me_a_coffee: purpleMadDog
+
+# --- Plateformes open-source officielles ---
+open_collective: madDogOpsCollective
+liberapay: madDogOps
+tipeee: MadDogOpsElite
+
+# --- Plateformes de financement tech ---
+polar: madDogOps
+lfx_crowdfunding: madDogOps
+
+# --- Liens personnalisés premium ---
+custom:
+  - https://madDog-ops.tech/support
+  - https://madDog-ops.tech/donate
+  - https://madDog-ops.tech/purple-elite
+  - https://github.com/sponsors/teremuhamblin
+  - https://teremu-hamblin.dev/support
+  - https://madDog-ops.tech/funding
+
+# ============================================================
+# Notes :
+# - Toutes les plateformes officielles supportées par GitHub sont incluses.
+# - Les liens custom permettent d’ajouter tes pages de donation Purple Ops.
+# - Compatible GitHub Sponsors, Patreon, Ko-Fi, BMC, OpenCollective, Liberapay.
+# - Style Purple Cyber pour ton identité visuelle MadDoG.tmdg.
+# ============================================================
