@@ -12,12 +12,13 @@
 ---
 
 ## 🟦 GitHub-CommunityHub
-
+```text
 ![](https://github.com/teremuhamblin/github-stats/blob/generated/overview.svg#gh-dark-mode-only)
 ![](https://github.com/teremuhamblin/github-stats/blob/generated/overview.svg#gh-light-mode-only)
 ![](https://github.com/teremuhamblin/github-stats/blob/generated/languages.svg#gh-dark-mode-only)
 ![](https://github.com/teremuhamblin/github-stats/blob/generated/languages.svg#gh-light-mode-only)
 [Created by `TheMadDoG/github-stats`.](https://github.com/jstrieb/github-stats)
+```
 
 GitHub-CommunityHub est un dépôt communautaire dédié à la documentation, aux bonnes pratiques, aux templates et aux ressources permettant d’améliorer l’utilisation de GitHub au quotidien.
 
@@ -31,6 +32,17 @@ GitHub-CommunityHub est un dépôt communautaire dédié à la documentation, au
 ```
 
 ### 🎯 Objectifs
+
+---
+
+<img src=".github/badges/stars.svg"/>
+<img src=".github/badges/issues.svg"/>
+<img src=".github/badges/last_commit.svg"/>
+<img src=".github/badges/bash.svg"/>
+<img src=".github/badges/termux_ops.svg"/>
+
+---
+
 ```text
 - Centraliser les meilleures pratiques GitHub  
 - Fournir des exemples concrets et réutilisables  
